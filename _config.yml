@@ -8,7 +8,7 @@ color_scheme: light
 accent_color: green
 base_font: fraunces
 header:
-  title: Openwolf
+  title: openwolf
   logo: images/logo.svg
   logo_alt: Openwolf logo
   has_nav: true
