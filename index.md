@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: Research and Review
-
+layout: blog
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
