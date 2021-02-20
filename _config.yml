@@ -10,7 +10,7 @@ base_font: fraunces
 header:
   title: Openwolf
   logo: images/logo.svg
-  logo_alt: Agency logo
+  logo_alt: Openwolf logo
   has_nav: true
   nav_links:
     - label: Home
